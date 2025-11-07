@@ -1,7 +1,7 @@
 
 export const Hero = () => {
   return (
-    <section className="min-h-screen w-full bg-gradient-to-b from-[#FF0A0A] to-[#150C0C] via-[#150C0C] text-white py-12 sm:py-16 md:py-20 lg:py-24">
+    <section className="min-h-screen w-full bg-linear-to-b from-[#FF0A0A] to-[#150C0C] via-[#150C0C] text-white mt-10 sm:mt-8 md:mt-6 lg:mt-4 py-12 sm:py-16 md:py-20 lg:py-24">
       <div className="container mx-auto px-4 sm:px-8 lg:px-16">
         <div className="max-w-5xl mx-auto text-center">
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-semibold font-inter mb-4 sm:mb-6 text-[rgba(255,255,255,0.85)] leading-[1.21]">
